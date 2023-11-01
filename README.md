@@ -16,4 +16,4 @@ NOX watches what you do and keeps you on task. it has exactly one rule:
 
 ## halloween hackathon 2023
 deadline: **31/10 23:59**
-status: done ✅ going home
+status: in progress. user may not leave.
